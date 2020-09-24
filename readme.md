@@ -16,9 +16,10 @@ The collected data is present in the `data/` folder in the form of `*.csv` files
 Both a Croatian and English translation were made.
 
 All graphs were made using the `process.py` script.
-Used libraries:
-- Pandas
-- Matplotlib
+
+Python 3.8.2 with the following modules modules:
+- Pandas 1.1.2
+- Matplotlib 3.3.0
 
 ### Desired internship hourly wage
 
@@ -36,15 +37,17 @@ Used libraries:
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
-A bigger standard deviation can be observed between the internship and regular hourly wage, this indicates more variance. 
-It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience
-so they could have given a lower estimate.
+A bigger standard deviation can be observed between the internship and regular hourly wage, this indicates more variance in the regular hourly wage, our in other words a more spread out dataset. 
+It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience so they could have given a lower estimate.
+Internship hourly wages have a lower standard deviation relative to regular hourly wages since everyone's been through an internship so they have a firmer grasp over reality.
+
+Since the mean and median are approximately the same it indicates an even distribution.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
 
 ### Value of services and characteristics of the employer
 
-For this section, each question had an accompanying scoring system attached to it ranging from 0 to 4, indicating the value of the given service/characteristic of the employer.
+For this section, each question had an accompanying scoring system attached to it ranging from 0 to 4, indicating the value of the given question or in other words, service/characteristic of the employer.
 
 For ease of visualization each question was shortened to the form of:
 - q0 - Wage importance
@@ -78,9 +81,9 @@ Participant answers:
 - "Unclear communication. Incomplete and poor quality documentation."
 
 ### Is there anything that seems far from reality to you and you think is feasible during an internship/regular work
+Participant answers:
 - "Would be cool to be able to bring pets to work, although it might complicate the work environment?"
 - "The possibility of having a team that would help new workers/students learn and grow within the company."
 - "A bigger project."
 - "Eliminate unnecessary communication, assign tasks using the same format and detailed execution conditions. (standardization)"
-
 
