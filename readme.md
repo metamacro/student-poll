@@ -42,7 +42,7 @@ so they could have given a lower estimate.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
 
-### Value of services and characteristics of the employer:
+### Value of services and characteristics of the employer
 
 For this section, each question had an accompanying scoring system attached to it ranging from 0 to 4, indicating the value of the given service/characteristic of the employer.
 
@@ -59,3 +59,28 @@ For ease of visualization each question was shortened to the form of:
 - q9 - Possibility to continue working after completing an internship
 
 ![Histograms of questions](./graphs/histograms-q0-q9.png)
+
+### Location preference
+
+![Location pie chart](./graphs/location.png)
+
+### Workspace preference
+
+![Workspace pie chart](./graphs/workspace.png)
+
+### Observed shortcomings, difficulties during the cooperation with previous employers
+Participant answers:
+- "Giving jobs that no one wants to a new employee. In my opinion, it has a bad effect on a person's morale and motivation if he faces an almost impossible problem right after employment."
+- "Lack of communication."
+- "Lack of mentor’s attention."
+- "The employer monitors my work, but asks for corrections on the project when I'm done with it, although he could have told me about certain changes before."
+- "Lack of useful materials on the technologies used that we encounter for the first time."
+- "Unclear communication. Incomplete and poor quality documentation."
+
+### Is there anything that seems far from reality to you and you think is feasible during an internship/regular work
+- "Would be cool to be able to bring pets to work, although it might complicate the work environment?"
+- "The possibility of having a team that would help new workers/students learn and grow within the company."
+- "A bigger project."
+- "Eliminate unnecessary communication, assign tasks using the same format and detailed execution conditions. (standardization)"
+
+
