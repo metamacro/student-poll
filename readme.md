@@ -70,6 +70,7 @@ Participant answers:
 - "The employer monitors my work, but asks for corrections on the project when I'm done with it, although he could have told me about certain changes before."
 - "Lack of useful materials on the technologies used that we encounter for the first time."
 - "Unclear communication. Incomplete and poor quality documentation."
+- "Work of a different type than agreed at the interview, examining whether the job is done too often (disruption of work)"
 
 ### Is there anything that seems far from reality to you and you think is feasible during an internship/regular work
 Participant answers:
