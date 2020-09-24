@@ -17,7 +17,7 @@ Both a Croatian and English translation were made.
 
 All graphs were made using the `process.py` script.
 
-Python 3.8.2 with the following modules modules:
+Python 3.8.2 with the following modules was used:
 - Pandas 1.1.2
 - Matplotlib 3.3.0
 
@@ -37,9 +37,12 @@ Python 3.8.2 with the following modules modules:
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
-A bigger standard deviation can be observed between the internship and regular hourly wage, this indicates more variance in the regular hourly wage, our in other words a more spread out dataset. 
-It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience so they could have given a lower estimate.
-Internship hourly wages have a lower standard deviation relative to regular hourly wages since everyone's been through an internship so they have a firmer grasp over reality.
+A bigger standard deviation can be observed in the internship hourly wage relative to the regular hourly wage, this indicates more variance in the regular hourly wage, our in other words a more spread out dataset. 
+
+It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience so they could have given a lower estimate, etc.
+
+Internship hourly wages could have a lower standard deviation relative to regular hourly wages since everyone's been through an internship so they have a firmer grasp over reality.
+These are only my subjectively objective insights. :)
 
 Since the mean and median are approximately the same it indicates an even distribution.
 
