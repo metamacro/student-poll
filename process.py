@@ -10,7 +10,7 @@ print('Min:', poll['intern-hw'].min())
 print('Max:', poll['intern-hw'].max())
 print('Mean:', poll['intern-hw'].mean())
 print('Median', poll['intern-hw'].median())
-# ddof = 1 since we use a sample not the whole population
+# ddof = 1 since we use a sample (close to the whole population)
 print('Standard deviation:', poll['intern-hw'].std(ddof=1), end=2*'\n')
 
 print('Regular hourly wage:')
@@ -20,11 +20,13 @@ print('Mean:', poll['reg-hw'].mean())
 print('Median', poll['reg-hw'].median())
 print('Standard deviation:', poll['reg-hw'].std(ddof=1), end=2*'\n')
 
+# internship hourly wage
 poll['intern-hw'].value_counts().sort_index().plot(kind='bar')
 plt.title('Internship hourly wage')
 plt.xlabel('hourly wage [HRK]')
 plt.ylabel('number of people')
 
+# regular hourly wage
 plt.figure()
 poll['reg-hw'].value_counts().sort_index().plot(kind='bar')
 plt.title('Regular hourly wage')
@@ -56,7 +58,6 @@ locpie = poll['location'].value_counts().plot(kind='pie', autopct='%.2f%%',
                                               textprops={'color': 'w'})
 locpie.legend()
 
-# workspace
 # workspace
 plt.figure()
 workpie = poll['workspace'].value_counts().plot(kind='pie', autopct='%.2f%%',
