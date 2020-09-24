@@ -2,10 +2,10 @@
 
 This student poll was made with the intent to get a better insight of student needs and expectations during their internships and employment.
 
-The poll language is croatian.
+The poll language is Croatian.
 All students tested have a minimum final grade of B, with most of them having a grade mean > 4.0, have finished at least one internship and have finished either their second or final bachelors year.
 
-See [this google forms url for the poll.](https://docs.google.com/forms/d/e/1FAIpQLSelt9sSKwEIqqG4JofjQkJl9EAeL5sxRzlNUnaqLS2VIYKzjg/viewform?usp=sf_link)
+See [this google forms URL for the poll.](https://docs.google.com/forms/d/e/1FAIpQLSelt9sSKwEIqqG4JofjQkJl9EAeL5sxRzlNUnaqLS2VIYKzjg/viewform?usp=sf_link)
 
 
 ## Poll results
@@ -37,11 +37,11 @@ Python 3.8.2 with the following modules was used:
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
-A bigger standard deviation can be observed in the internship hourly wage relative to the regular hourly wage, this indicates more variance in the regular hourly wage, our in other words a more spread out dataset. 
+A bigger standard deviation can be observed in the internship hourly wage relative to the regular hourly wage, this indicates more variance in the regular hourly wage, or in other words a more spread out dataset. 
 
-It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience so they could have given a lower estimate, etc.
+It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience, so they could have given a lower estimate, etc.
 
-Internship hourly wages could have a lower standard deviation relative to regular hourly wages since everyone's been through an internship so they have a firmer grasp over reality.
+Internship hourly wages could have a lower standard deviation relative to regular hourly wages since everyone's been through an internship, so they have a firmer grasp over reality.
 These are only my subjectively objective insights. :)
 
 Since the mean and median are approximately the same it indicates an even distribution.
@@ -57,7 +57,7 @@ For ease of visualization each question was shortened to the form of:
 - q1 - Flexible work times
 - q2 - Ability to work from home
 - q3 - Being given hardware and peripherals for work
-- q4 - Free coffe, juice, fruits, snacks in general
+- q4 - Free coffee, juice, fruits, snacks in general
 - q5 - Paid/cheaper meals
 - q6 - Opportunity to progress and improve one's abilities
 - q7 - Use technology as desired, if circumstances allow
