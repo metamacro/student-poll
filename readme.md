@@ -37,7 +37,7 @@ Used libraries:
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
 A bigger standard deviation can be observed between the internship and regular hourly wage, this indicates more variance. 
-It could be due to some students having more work experience than others and thus higher salary expectations, some students perhaps have no work experience
+It could be due to some students having more work experience than others and thus having higher salary expectations, some students perhaps have no work experience
 so they could have given a lower estimate.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
@@ -58,4 +58,4 @@ For ease of visualization each question was shortened to the form of:
 - q8 - The influence of the individual, the existence of a competent person who listens to your ideas and requirements
 - q9 - Possibility to continue working after completing an internship
 
-![[Histograms of questions](./graphs/histograms-q0-q9.png)
+![Histograms of questions](./graphs/histograms-q0-q9.png)
