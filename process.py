@@ -34,11 +34,18 @@ plt.ylabel('number of people')
 # histograms for q0 - q9
 # number of questions ranging from 0-10
 # score ranges from 0-4, important-non important
+titles = ["Wage importance", "Flexible work times", "Ability to work from home", 
+          "Being given hardware and peripherals for work", "Free coffee, juice, fruits, snacks in general", 
+          "Paid/cheaper meals", "Opportunity to progress and improve one's abilities",
+          "Use technology as desired, if circumstances allow", 
+          "The influence of the individual, the existence of a person who listens to your ideas and requirements", 
+          "Possibility to continue working after completing an internship"]
 nqs = 10
 qs = ['q'+str(i) for i in range(nqs)]
 binrange = [-0.5, 0.5, 1.5, 2.5, 3.5, 4.5]
 hists = poll[qs].hist(layout=(5, int(nqs/5)), bins=binrange, rwidth=0.5, figsize=(5, 2))
-for hist in hists.flatten():
+for title, hist in zip(titles, hists.flatten()):
+    hist.title.set_text(title)
     hist.set_ylabel('number of people')
     hist.set_xlabel('score')
 
