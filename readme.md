@@ -44,7 +44,7 @@ It could be due to some students having more work experience than others and thu
 Internship hourly wages could have a lower standard deviation relative to regular hourly wages since everyone's been through an internship, so they have a firmer grasp over reality.
 These are only my subjectively objective insights. :)
 
-Since the mean and median are approximately the same it indicates an even distribution.
+Since the mean and median are approximately the same it indicates a symmetric distribution.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
 
