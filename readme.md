@@ -10,7 +10,7 @@ See [this google forms URL for the poll.](https://docs.google.com/forms/d/e/1FAI
 
 ## Poll results
 
-A total of 21 students participated in the poll, which should include everyone that falls within the set constraints.
+A total of 22 students participated in the poll, which should include everyone that falls within the set constraints.
 
 The collected data is present in the `data/` folder in the form of `*.csv` files.
 Both a Croatian and English translation were made.
@@ -25,7 +25,7 @@ Python 3.8.2 with the following modules was used:
 
 | Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
 |:---------:|:---------:|:----------:|:-------------:|:------------------:|
-|     20    |     40    |    30.7    |       30      |         4.06       |
+|     20    |     40    |    30.43   |       30      |         4.15       |
 
 ![Internship hourly wage](./graphs/internship-hourly-wage.png)
 
@@ -33,7 +33,7 @@ Python 3.8.2 with the following modules was used:
 
 | Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
 |:---------:|:---------:|:----------:|:-------------:|:------------------:|
-|     30    |     70    |    45.5    |       45      |        8.87        |
+|     30    |     70    |    46.6    |       45      |        10.17       |
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
