@@ -1,6 +1,6 @@
 # Student poll
 
-This student poll was made with the intent to get a better insight of student needs and expectations during their internships and employment.
+This student poll was made with the intent to get a better insight of Croatian computer science student needs and expectations during their internships and employment.
 
 The poll language is Croatian.
 All students tested have a minimum final grade of B, with most of them having a grade mean > 4.0, have finished at least one internship and have finished either their second or final bachelors year.
@@ -10,7 +10,7 @@ See [this google forms URL for the poll.](https://docs.google.com/forms/d/e/1FAI
 
 ## Poll results
 
-A total of 22 students participated in the poll, which should include everyone that falls within the set constraints.
+A total of 22 students of computer science participated in the poll, which should include everyone that falls within the set constraints.
 
 The collected data is present in the `data/` folder in the form of `*.csv` files.
 Both a Croatian and English translation were made.
@@ -45,6 +45,8 @@ Internship hourly wages could have a lower standard deviation relative to regula
 These are only my subjectively objective insights. :)
 
 Since the mean and median are approximately the same it indicates a symmetric distribution.
+
+For reference currently (25.09.2020.) the minimal hourly wage for students equals 25.39 HRK.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
 
