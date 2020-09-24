@@ -33,7 +33,7 @@ Python 3.8.2 with the following modules was used:
 
 | Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
 |:---------:|:---------:|:----------:|:-------------:|:------------------:|
-|     30    |     70    |    46.6    |       45      |        10.17       |
+|     30    |     70    |    46.67   |       45      |        10.17       |
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
