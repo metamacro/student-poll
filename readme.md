@@ -20,7 +20,7 @@ Used libraries:
 - Pandas
 - Matplotlib
 
-Desired internship hourly wage:
+### Desired internship hourly wage
 
 | Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
 |:---------:|:---------:|:----------:|:-------------:|:------------------:|
@@ -28,7 +28,7 @@ Desired internship hourly wage:
 
 ![Internship hourly wage](./graphs/internship-hourly-wage.png)
 
-Desired regular wage:
+### Desired regular hourly wage
 
 | Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
 |:---------:|:---------:|:----------:|:-------------:|:------------------:|
@@ -41,3 +41,21 @@ It could be due to some students having more work experience than others and thu
 so they could have given a lower estimate.
 
 One student noted in the internship hourly wage field how just by having a paid internship it gives companies an edge over the others, since a lot of internships are unpaid. 
+
+### Value of services and characteristics of the employer:
+
+For this section, each question had an accompanying scoring system attached to it ranging from 0 to 4, indicating the value of the given service/characteristic of the employer.
+
+For ease of visualization each question was shortened to the form of:
+- q0 - Wage importance
+- q1 - Flexible work times
+- q2 - Ability to work from home
+- q3 - Being given hardware and peripherals for work
+- q4 - Free coffe, juice, fruits, snacks in general
+- q5 - Paid/cheaper meals
+- q6 - Opportunity to progress and improve one's abilities
+- q7 - Use technology as desired, if circumstances allow
+- q8 - The influence of the individual, the existence of a competent person who listens to your ideas and requirements
+- q9 - Possibility to continue working after completing an internship
+
+![[Histograms of questions](./graphs/histograms-q0-q9.png)
