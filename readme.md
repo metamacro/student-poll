@@ -23,17 +23,17 @@ Python 3.8.2 with the following modules was used:
 
 ### Desired internship hourly wage
 
-| Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
-|:---------:|:---------:|:----------:|:-------------:|:------------------:|
-|     20    |     40    |    30.43   |       30      |         4.15       |
+| Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation [HRK] |
+|:---------:|:---------:|:----------:|:-------------:|:------------------------:|
+|     20    |     40    |    30.43   |       30      |           4.15           |
 
 ![Internship hourly wage](./graphs/internship-hourly-wage.png)
 
 ### Desired regular hourly wage
 
-| Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation |
-|:---------:|:---------:|:----------:|:-------------:|:------------------:|
-|     30    |     70    |    46.67   |       45      |        10.17       |
+| Min [HRK] | Max [HRK] | Mean [HRK] | Median [HRK]  | Standard deviation [HRK] |
+|:---------:|:---------:|:----------:|:-------------:|:------------------------:|
+|     30    |     70    |    46.67   |       45      |          10.17           |
 
 ![Regular hourly wage](./graphs/regular-hourly-wage.png)
 
