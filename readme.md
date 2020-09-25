@@ -56,6 +56,10 @@ For this section, each question had an accompanying scoring system attached to i
 
 ![Histograms of questions](./graphs/histograms-q0-q9.png)
 
+Since the participating students had higher grades and success in college, it can be seen how all of the opportunistic questions were highly rated, such as: having an opportunity to progress and improve ones abilities, individual's influence, existence of a person that listens to your ideas and requirements and having the possibility to continue working after an internship.
+
+Should be noted how the current epidemic situation could have affected some of the results regarding work from home, flexible work hours.
+
 ### Location preference
 
 ![Location pie chart](./graphs/location.png)
