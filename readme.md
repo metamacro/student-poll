@@ -1,6 +1,6 @@
 # Student poll
 
-This student poll was made with the intent to get a better insight of Croatian computer science student needs and expectations during their internships and employment.
+This student poll was made with the intent to get a better insight in Croatian computer science student's needs and expectations during their internships and employment.
 
 The poll language is Croatian.
 All students tested have a minimum final grade of B, with most of them having a grade mean > 4.0, have finished at least one internship and have finished either their second or final bachelors year.
